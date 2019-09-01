@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # App modules
+    'django_graphql_movies.users',
     'django_graphql_movies.movies',
 
     # Third party modules
